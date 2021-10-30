@@ -1,4 +1,4 @@
-# Weather app by HavingFun (Ahmad dan kevin)
+# Ramalan cuaca (Ahmad dan kevin)
 
 PRoject ini saya kerjakan untuk memenuhi penugasan lvl up bersama teman saya
 Api yang digunakan:
